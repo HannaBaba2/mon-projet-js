@@ -1,0 +1,13 @@
+{
+  "name": "mon-projet-js",
+  "version": "1.0.0",
+  "description": "Script interactif RodiumAI avec le SDK JavaScript (chat, image, vidéo)",
+  "type": "module",
+  "main": "main.js",
+  "scripts": { "start": "node main.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "rodiumai": "^0.3.1"
+  }
+}
